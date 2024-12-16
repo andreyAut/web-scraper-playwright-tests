@@ -1,8 +1,5 @@
 ﻿Status: In development
 
-![Logo](https://img.shields.io/badge/Playwright-%23000000?style=for-the-badge&logo=playwright&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
-
 ## 📝 Visão Geral
 
 Este é um projeto que utiliza **Playwright** para acessar um site, coletar informações relevantes e validar a veracidade desses dados, salvando os resultados em um formato organizado, como uma planilha ou banco de dados.
